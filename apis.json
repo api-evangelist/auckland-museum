@@ -1,0 +1,79 @@
+{
+    "name": "Auckland Museum",
+    "description": "<p>For the past 160 years, our Curators, Collection Managers, and volunteers have been creating descriptions, classifications and taxonomies &mdash; meaning we have amassed a huge amount of data about the objects in our care. One of the aims of Future Museum is to open up our collections and engage with online communities. The public API, which allows detailed open access to collection data, is a major part of our 'open first, closed by exception' approach that fulfils this aim. This service allows you to search across approximately one million objects including Natural Science specimens, cultural collections, archives, library items and Online Cenotaph records.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/auckland-museum.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "have swagger",
+        "museums",
+        "new zealand"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Auckland Museum",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/auckland-museum.png",
+            "humanURL": "http:\/\/aucklandmuseum.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/auckland-museum-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/auckland-museum.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/auckland-museum-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-09-03-22-34-29.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-09-03-22-34-42.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-09-03-22-35-05.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-09-04-09-33-28.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-09-03-22-36-03.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-09-03-22-36-09.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-09-04-02-51-56.json"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/aucklandmuseum\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/aucklandmuseum.com"
+        }
+    ]
+}
