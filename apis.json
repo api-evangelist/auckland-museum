@@ -9,8 +9,8 @@
         "museums",
         "new zealand"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -24,21 +24,25 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/auckland-museum-openapi.json"
-                },
-                {
-                    "type": "x-openapi",
                     "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/auckland-museum.json"
                 },
                 {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/auckland-museum-openapi.json"
+                },
+                {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/auckland-museum-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/auckland-museum-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Swagger",
             "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-09-03-22-34-29.json"
