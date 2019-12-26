@@ -7,15 +7,16 @@
         "have api",
         "have swagger",
         "museums",
+        "new",
         "new zealand"
     ],
-    "created": "2019-12-20",
-    "modified": "2019-12-20",
+    "created": "2019-12-25",
+    "modified": "2019-12-25",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
         {
-            "name": "Auckland Museum",
+            "name": "Auckland Museum API",
             "description": null,
             "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/auckland-museum.png",
             "humanURL": "http:\/\/aucklandmuseum.com",
@@ -24,15 +25,15 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/auckland-museum.json"
-                },
-                {
-                    "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/auckland-museum-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/auckland-museum-api-openapi.json"
                 },
                 {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/auckland-museum-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/auckland-museum\/master\/auckland-museum-api-postman-collection.json"
+                },
+                {
+                    "type": "x-source",
+                    "url": "https:\/\/api.aucklandmuseum.com\/apidoc"
                 }
             ]
         }
@@ -42,6 +43,10 @@
         {
             "type": "APIs.json",
             "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28371-2019-12-25-23-03-15.json"
         },
         {
             "type": "Swagger",
